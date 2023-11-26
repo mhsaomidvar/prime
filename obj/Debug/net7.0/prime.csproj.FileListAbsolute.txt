@@ -1,0 +1,14 @@
+D:\universiti egtimlerim\odevler\prime\bin\Debug\net7.0\prime.exe
+D:\universiti egtimlerim\odevler\prime\bin\Debug\net7.0\prime.deps.json
+D:\universiti egtimlerim\odevler\prime\bin\Debug\net7.0\prime.runtimeconfig.json
+D:\universiti egtimlerim\odevler\prime\bin\Debug\net7.0\prime.dll
+D:\universiti egtimlerim\odevler\prime\bin\Debug\net7.0\prime.pdb
+D:\universiti egtimlerim\odevler\prime\obj\Debug\net7.0\prime.GeneratedMSBuildEditorConfig.editorconfig
+D:\universiti egtimlerim\odevler\prime\obj\Debug\net7.0\prime.AssemblyInfoInputs.cache
+D:\universiti egtimlerim\odevler\prime\obj\Debug\net7.0\prime.AssemblyInfo.cs
+D:\universiti egtimlerim\odevler\prime\obj\Debug\net7.0\prime.csproj.CoreCompileInputs.cache
+D:\universiti egtimlerim\odevler\prime\obj\Debug\net7.0\prime.dll
+D:\universiti egtimlerim\odevler\prime\obj\Debug\net7.0\refint\prime.dll
+D:\universiti egtimlerim\odevler\prime\obj\Debug\net7.0\prime.pdb
+D:\universiti egtimlerim\odevler\prime\obj\Debug\net7.0\prime.genruntimeconfig.cache
+D:\universiti egtimlerim\odevler\prime\obj\Debug\net7.0\ref\prime.dll
